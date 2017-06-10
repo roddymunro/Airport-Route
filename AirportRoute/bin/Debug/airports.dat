@@ -1,0 +1,507 @@
+1	Aalborg Airport	57.09275891	9.849243164	DK	Aalborg	AAL
+2	Aberdeen Dyce Airport	57.20190048	-2.197779894	GB	Aberdeen	ABZ
+3	Abu Dhabi International Airport	24.43300056	54.65110016	AE	Abu Dhabi	AUH
+4	Adana Airport	36.98220062	35.28039932	TR	Adana	ADA
+5	Addis Ababa Bole International Airport	8.977890015	38.79930115	ET	Addis Ababa	ADD
+6	Adnan Menderes International Airport	38.29240036	27.15699959	TR	Gaziemir	ADB
+7	Adolfo Suarez Madrid-Barajas Airport	40.4936	-3.56676	ES	Madrid	MAD
+8	Afonso Pena Airport	-25.5284996	-49.17580032	BR	Curitiba	CWB
+9	Akwa Ibom International Airport	4.8725	8.093	NG	Uyo	QUO
+10	Al Maktoum International Airport	24.896356	55.161389	AE	Jebel Ali	DWC
+11	Albuquerque International Sunport Airport	35.04019928	-106.6090012	US	Albuquerque	ABQ
+12	Alejandro Velasco Astete International Airport	-13.53569984	-71.938797	PE	Cusco	CUZ
+13	Alicante International Airport	38.28219986	-0.558156013	ES	Alicante	ALC
+14	Almaty Airport	43.35210037	77.04049683	KZ	Almaty	ALA
+15	Amsterdam Airport Schiphol	52.30860138	4.76388979	NL	Amsterdam	AMS
+16	Antalya International Airport	36.89870071	30.80050087	TR	Antalya	AYT
+17	Antonio B. Won Pat International Airport	13.48340034	144.7960052	GU	Tamuning	GUM
+18	Urumqi Diwopu International Airport	43.90710068	87.47419739	CN	Urumqi	URC
+19	Asheville Regional Airport	35.43619919	-82.54180145	US	Asheville	AVL
+20	Astana International Airport	51.02220154	71.46690369	KZ	Astana	TSE
+21	Ataturk International Airport	40.97689819	28.81459999	TR	Istanbul	IST
+22	Auckland International Airport	-37.0080986	174.7920074	NZ	Auckland	AKL
+23	Augusta Regional At Bush Field	33.36989975	-81.96450043	US	Augusta	AGS
+24	Austin Bergstrom International Airport	30.19449997	-97.66989899	US	Austin	AUS
+25	Austin Straubel International Airport	44.48509979	-88.12960052	US	Green Bay	GRB
+26	Baghdad International Airport	33.26250076	44.23460007	IQ	Baghdad	BGW
+27	Bahrain International Airport	26.27079964	50.63359833	BH	Manama	BAH
+28	Baltimore/Washington International Thurgood Marshall Airport	39.17539978	-76.66829681	US	Baltimore	BWI
+29	Bandaranaike International Colombo Airport	7.180759907	79.88410187	LK	Colombo	CMB
+30	Bangor International Airport	44.80739975	-68.82810211	US	Bangor	BGR
+31	Barcelona International Airport	41.29710007	2.078459978	ES	Barcelona	BCN
+32	Bari Karol Wojtyla Airport	41.13890076	16.76059914	IT	Bari	BRI
+33	Basrah International Airport	30.54910088	47.66210175	IQ	Basrah	BSR
+34	Baton Rouge Metropolitan, Ryan Field	30.53319931	-91.14959717	US	Baton Rouge	BTR
+35	Beijing Capital International Airport	40.08010101	116.5849991	CN	Beijing	PEK
+36	Beijing Nanyuan Airport	39.78279877	116.3880005	CN	Beijing	NAY
+37	Beirut Rafic Hariri International Airport	33.82089996	35.48839951	LB	Beirut	BEY
+38	Belfast International Airport	54.65750122	-6.215829849	GB	Belfast	BFS
+39	Belgrade Nikola Tesla Airport	44.81840134	20.3090992	RS	Belgrade	BEG
+40	Ben Gurion International Airport	32.01139832	34.88669968	IL	Tel Aviv	TLV
+41	Benazir Bhutto International Airport	33.61669922	73.09919739	PK	Islamabad	ISB
+42	Bergen Airport Flesland	60.29339981	5.218140125	NO	Bergen	BGO
+43	Berlin-Schonefeld International Airport	52.38000107	13.52250004	DE	Berlin	SXF
+44	Berlin-Tegel International Airport	52.55970001	13.2876997	DE	Berlin	TXL
+45	Bill & Hillary Clinton National Airport/Adams Field	34.72940063	-92.22429657	US	Little Rock	LIT
+46	Billings Logan International Airport	45.80770111	-108.5429993	US	Billings	BIL
+47	Billund Airport	55.74029922	9.151780128	DK	Billund	BLL
+48	Birmingham International Airport	52.45389938	-1.748029947	GB	Birmingham	BHX
+49	Birmingham-Shuttlesworth International Airport	33.56290054	-86.75350189	US	Birmingham	BHM
+50	Blue Grass Airport	38.03649902	-84.60590363	US	Lexington	LEX
+51	Bodo Airport	67.26920319	14.36530018	NO	Bodo	BOO
+52	Boise Air Terminal/Gowen field	43.56439972	-116.2229996	US	Boise	BOI
+53	Bologna Guglielmo Marconi Airport	44.53540039	11.2887001	IT	Bologna	BLQ
+54	Bordeaux-Merignac Airport	44.82830048	-0.715556026	FR	Bordeaux	BOD
+55	Boryspil International Airport	50.34500122	30.8946991	UA	Kiev	KBP
+56	Bournemouth Airport	50.77999878	-1.842499971	GB	Bournemouth	BOH
+57	Bradley International Airport	41.93889999	-72.68319702	US	Hartford	BDL
+58	Bremen Airport	53.04750061	8.786669731	DE	Bremen	BRE
+59	Brisbane International Airport	-27.38419914	153.1170044	AU	Brisbane	BNE
+60	Bristol International Airport	51.38270187	-2.719089985	GB	Bristol	BRS
+61	Brunei International Airport	4.944200039	114.9280014	BN	Bandar Seri Begawan	BWN
+62	Brussels Airport	50.90140152	4.48443985	BE	Brussels	BRU
+63	Brussels South Charleroi Airport	50.45920181	4.453820229	BE	Brussels	CRL
+64	Budapest Ferenc Liszt International Airport	47.43690109	19.25559998	HU	Budapest	BUD
+65	Buffalo Niagara International Airport	42.94049835	-78.73220062	US	Buffalo	BUF
+66	Burgas Airport	42.56959915	27.51519966	BG	Burgas	BOJ
+67	Cagliari Elmas Airport	39.25149918	9.054280281	IT	Cagliari	CAG
+68	Cairo International Airport	30.12190056	31.40559959	EG	Cairo	CAI
+69	Calgary International Airport	51.11389923	-114.0199966	CA	Calgary	YYC
+70	Calicut International Airport	11.13679981	75.95529938	IN	Calicut	CCJ
+71	Canberra International Airport	-35.30690002	149.1950073	AU	Canberra	CBR
+72	Cancun International Airport	21.03650093	-86.87709808	MX	Cancun	CUN
+73	Cape Town International Airport	-33.96480179	18.60169983	ZA	Cape Town	CPT
+74	Cardiff International Airport	51.39670181	-3.343329906	GB	Cardiff	CWL
+75	Carrasco International /General C L Berisso Airport	-34.83840179	-56.03079987	UY	Montevideo	MVD
+76	Casper-Natrona County International Airport	42.90800095	-106.4639969	US	Casper	CPR
+77	Catania-Fontanarossa Airport	37.46680069	15.06639957	IT	Catania	CTA
+78	Central Illinois Regional Airport at Bloomington-Normal	40.47710037	-88.91590118	US	Bloomington	BMI
+79	Changsha Huanghua International Airport	28.18919945	113.2200012	CN	Changsha	CSX
+80	Charles de Gaulle International Airport	49.01279831	2.549999952	FR	Paris	CDG
+81	Charleston Air Force Base-International Airport	32.89860153	-80.04049683	US	Charleston	CHS
+82	Charlotte Douglas International Airport	35.2140007	-80.94309998	US	Charlotte	CLT
+83	Chek Lap Kok International Airport	22.30890083	113.9150009	HK	Hong Kong	HKG
+84	Chengdu Shuangliu International Airport	30.57850075	103.9469986	CN	Chengdu	CTU
+85	Chennai International Airport	12.99000549	80.16929626	IN	Chennai	MAA
+86	Cheongju International Airport	36.71659851	127.4990005	KR	Cheongju	CJJ
+87	Chhatrapati Shivaji International Airport	19.08869934	72.86789703	IN	Mumbai	BOM
+88	Chiang Mai International Airport	18.76679993	98.96260071	TH	Chiang Mai	CNX
+89	Chicago Midway International Airport	41.7859993	-87.75240326	US	Chicago	MDW
+90	Chicago O'Hare International Airport	41.97859955	-87.90480042	US	Chicago	ORD
+91	Chicago Rockford International Airport	42.19540024	-89.09719849	US	Chicago	RFD
+92	Chongqing Jiangbei International Airport	29.71920013	106.6419983	CN	Chongqing	CKG
+93	Christchurch International Airport	-43.48939896	172.5319977	NZ	Christchurch	CHC
+94	Chubu Centrair International Airport	34.85839844	136.8049927	JP	Tokoname	NGO
+95	Ciampino-G. B. Pastine International Airport	41.79940033	12.59490013	IT	Rome	CIA
+96	Cincinnati Northern Kentucky International Airport	39.04880142	-84.6678009	US	Cincinnati	CVG
+97	City of Colorado Springs Municipal Airport	38.80580139	-104.7009964	US	Colorado Springs	COS
+98	Clark International Airport	15.18599987	120.5599976	PH	Angeles City	CRK
+99	Cleveland Hopkins International Airport	41.4117012	-81.84980011	US	Cleveland	CLE
+100	Cochin International Airport	10.15200043	76.40190125	IN	Cochin	COK
+101	Cologne Bonn Airport	50.86589813	7.142739773	DE	Cologne	CGN
+102	Columbia Metropolitan Airport	33.93880081	-81.11949921	US	Columbia	CAE
+103	Comodoro Arturo Merino Benítez International Airport	-33.39300156	-70.78579712	CL	Santiago	SCL
+104	Congonhas Airport	-23.62611008	-46.65638733	BR	Sao Paulo	CGH
+105	Copenhagen Kastrup Airport	55.61790085	12.65600014	DK	Copenhagen	CPH
+106	Copernicus Wroclaw Airport	51.10269928	16.88579941	PL	Wroclaw	WRO
+107	Cork Airport	51.84130096	-8.491109848	IE	Cork	ORK
+108	Corpus Christi International Airport	27.77039909	-97.50119781	US	Corpus Christi	CRP
+109	Cuneo International Airport	44.54700089	7.623219967	IT	Cuneo	CUF
+110	Da Nang International Airport	16.04389954	108.1989975	VN	Da Nang	DAD
+111	Dusseldorf International Airport	51.28950119	6.7667799	DE	Dusseldorf	DUS
+112	Dabolim Airport	15.38080025	73.83139801	IN	Vasco da Gama	GOI
+113	Dalaman International Airport	36.71310043	28.79249954	TR	Dalaman	DLM
+114	Dallas Fort Worth International Airport	32.89680099	-97.03800201	US	Dallas-Fort Worth	DFW
+115	Dallas Love Field	32.8470993	-96.85179901	US	Dallas	DAL
+116	Dane County Regional Truax Field	43.13990021	-89.33750153	US	Madison	MSN
+117	Denver International Airport	39.86169815	-104.6729965	US	Denver	DEN
+118	Deputado Luiz Eduardo Magalhaes International Airport	-12.9086113	-38.32249832	BR	Salvador	SSA
+119	Des Moines International Airport	41.5340004	-93.6631012	US	Des Moines	DSM
+120	Detroit Metropolitan Wayne County Airport	42.21239853	-83.35340118	US	Detroit	DTW
+121	Dominique Edward Osok Airport	-0.894	131.287	ID	Sorong-Papua Island	SOQ
+122	Domodedovo International Airport	55.40879822	37.90629959	RU	Moscow	DME
+123	Don Miguel Hidalgo Y Costilla International Airport	20.52179909	-103.310997	MX	Guadalajara	GDL
+124	Don Mueang International Airport	13.91259956	100.6070023	TH	Bangkok	DMK
+125	Donetsk International Airport	48.07360077	37.73970032	UA	Donetsk	DOK
+126	Dortmund Airport	51.5182991	7.612239838	DE	Dortmund	DTM
+127	Dresden Airport	51.13280106	13.76720047	DE	Dresden	DRS
+128	Dubai International Airport	25.25279999	55.36439896	AE	Dubai	DXB
+129	Dublin Airport	53.42129898	-6.270070076	IE	Dublin	DUB
+130	Dubuque Regional Airport	42.40200043	-90.70950317	US	Dubuque	DBQ
+131	Duluth International Airport	46.84209824	-92.19360352	US	Duluth	DLH
+132	East Midlands Airport	52.83110046	-1.328060031	GB	Nottingham	EMA
+133	Edinburgh Airport	55.95000076	-3.372499943	GB	Edinburgh	EDI
+134	Edmonton International Airport	53.30970001	-113.5800018	CA	Edmonton	YEG
+135	Eglin Air Force Base	30.48320007	-86.52539825	US	Valparaiso	VPS
+136	Eindhoven Airport	51.45009995	5.374529839	NL	Eindhoven	EIN
+137	El Dorado International Airport	4.70159	-74.1469	CO	Bogota	BOG
+138	Eleftherios Venizelos International Airport	37.93640137	23.94449997	GR	Athens	ATH
+139	Enfidha - Hammamet International Airport	36.075833	10.438611	TN	Enfidha	NBE
+140	Erie International Tom Ridge Field	42.08312701	-80.17386675	US	Erie	ERI
+141	Erzurum International Airport	39.95650101	41.17020035	TR	Erzurum	ERZ
+142	Esenboga International Airport	40.12810135	32.99509811	TR	Ankara	ESB
+143	EuroAirport Basel-Mulhouse-Freiburg Airport	47.58959961	7.529910088	FR	Basel	BSL
+144	Exeter International Airport	50.7344017	-3.413889885	GB	Exeter	EXT
+145	Fairbanks International Airport	64.81510162	-147.8560028	US	Fairbanks	FAI
+146	Falcone–Borsellino Airport	38.17599869	13.0909996	IT	Palermo	PMO
+147	Faro Airport	37.01440048	-7.965909958	PT	Faro	FAO
+148	Fort Lauderdale Hollywood International Airport	26.07259941	-80.15270233	US	Fort Lauderdale	FLL
+149	Fort Smith Regional Airport	35.33660126	-94.36740112	US	Fort Smith	FSM
+150	Fort Wayne International Airport	40.97850037	-85.19509888	US	Fort Wayne	FWA
+151	Francisco Bangoy International Airport	7.125520229	125.6460037	PH	Davao City	DVO
+152	Francisco de Sa Carneiro Airport	41.24810028	-8.681389809	PT	Porto	OPO
+153	Frankfurt am Main International Airport	50.026402	8.54313	DE	Frankfurt	FRA
+154	Fukuoka Airport	33.58589935	130.451004	JP	Fukuoka	FUK
+155	Fuzhou Changle International Airport	25.93510056	119.663002	CN	Fuzhou	FOC
+156	Gaziantep International Airport	36.94720078	37.47869873	TR	Gaziantep	GZT
+157	Gdansk Lech Walesa Airport	54.37760162	18.46619987	PL	Gdansk	GDN
+158	General Abelardo L. Rodríguez International Airport	32.54109955	-116.9700012	MX	Tijuana	TIJ
+159	General Edward Lawrence Logan International Airport	42.36429977	-71.00520325	US	Boston	BOS
+160	General Ignacio P. Garcia International Airport	29.09589958	-111.0479965	MX	Hermosillo	HMO
+161	General Juan N Alvarez International Airport	16.75709915	-99.7539978	MX	Acapulco	ACA
+162	General Mariano Escobedo International Airport	25.7784996	-100.1070023	MX	Monterrey	MTY
+163	General Mitchell International Airport	42.94720078	-87.89659882	US	Milwaukee	MKE
+164	General Wayne A. Downing Peoria International Airport	40.66419983	-89.69329834	US	Peoria	PIA
+165	Geneva Cointrin International Airport	46.23809814	6.108950138	CH	Geneva	GVA
+166	Genoa Cristoforo Colombo Airport	44.41329956	8.837499619	IT	Genova	GOA
+167	George Airport	-34.00559998	22.37890053	ZA	George	GRJ
+168	George Best Belfast City Airport	54.61809921	-5.872499943	GB	Belfast	BHD
+169	George Bush Intercontinental Houston Airport	29.9843998	-95.34140015	US	Houston	IAH
+170	Gimhae International Airport	35.17950058	128.9380035	KR	Busan	PUS
+171	Gimpo International Airport	37.55830002	126.7910004	KR	Seoul	GMP
+172	Glasgow International Airport	55.87189865	-4.433060169	GB	Glasgow	GLA
+173	Gothenburg-Landvetter Airport	57.66279984	12.27980042	SE	Gothenburg	GOT
+174	Governador Aluizio Alves International Airport	-5.768056	-35.376111	BR	Natal	NAT
+175	Gran Canaria Airport	27.93190002	-15.38659954	ES	Gran Canaria Island	LPA
+176	Greater Rochester International Airport	43.1189003	-77.67240143	US	Rochester	ROC
+177	Greenville Spartanburg International Airport	34.89569855	-82.21890259	US	Greenville	GSP
+178	Grozny North Airport	43.38830185	45.69860077	RU	Grozny	GRV
+179	Guangzhou Baiyun International Airport	23.39240074	113.2990036	CN	Guangzhou	CAN
+180	Guarulhos - Governador Andre Franco Montoro International Airport	-23.43555641	-46.47305679	BR	Sao Paulo	GRU
+181	Guilin Liangjiang International Airport	25.21809959	110.0390015	CN	Guilin City	KWL
+182	Gulfport Biloxi International Airport	30.40730095	-89.07009888	US	Gulfport	GPT
+183	Haikou Meilan International Airport	19.93490028	110.4589996	CN	Haikou	HAK
+184	Halifax / Stanfield International Airport	44.88079834	-63.50859833	CA	Halifax	YHZ
+185	Hamad International Airport	25.273056	51.608056	QA	Doha	DOH
+186	Hamburg Airport	53.63040161	9.988229752	DE	Hamburg	HAM
+187	Hangzhou Xiaoshan International Airport	30.22949982	120.4339981	CN	Hangzhou	HGH
+188	Hannover Airport	52.46110153	9.685079575	DE	Hannover	HAJ
+189	Hartsfield Jackson Atlanta International Airport	33.63669968	-84.42810059	US	Atlanta	ATL
+190	Hasanuddin International Airport	-5.061629772	119.5540009	ID	Ujung Pandang-Celebes Island	UPG
+191	Helsinki Vantaa Airport	60.31719971	24.9633007	FI	Helsinki	HEL
+192	Henri Coanda International Airport	44.57220078	26.10219955	RO	Bucharest	OTP
+193	Heraklion International Nikos Kazantzakis Airport	35.33969879	25.18029976	GR	Heraklion	HER
+194	Hercilio Luz International Airport	-27.67027855	-48.55250168	BR	Florianopolis	FLN
+195	Heydar Aliyev International Airport	40.46749878	50.04669952	AZ	Baku	GYD
+196	Honolulu International Airport	21.31870079	-157.9219971	US	Honolulu	HNL
+197	Houari Boumediene Airport	36.69100189	3.215409994	DZ	Algiers	ALG
+198	Huntsville International Carl T Jones Field	34.6371994	-86.77510071	US	Huntsville	HSV
+199	Hurghada International Airport	27.17830086	33.79940033	EG	Hurghada	HRG
+200	Il Caravaggio International Airport	45.6739006	9.704170227	IT	Bergamo	BGY
+201	Imam Khomeini International Airport	35.41609955	51.15219879	IR	Tehran	IKA
+202	Incheon International Airport	37.46910095	126.4509964	KR	Seoul	ICN
+203	Indianapolis International Airport	39.71730042	-86.29440308	US	Indianapolis	IND
+204	Indira Gandhi International Airport	28.56649971	77.10310364	IN	New Delhi	DEL
+205	Jackson-Medgar Wiley Evers International Airport	32.31119919	-90.07589722	US	Jackson	JAN
+206	Jacksonville International Airport	30.49410057	-81.68789673	US	Jacksonville	JAX
+207	James M Cox Dayton International Airport	39.90240097	-84.2193985	US	Dayton	DAY
+208	Jeju International Airport	33.51129913	126.4929962	KR	Jeju City	CJU
+209	Joao Paulo II Airport	37.74119949	-25.69790077	PT	Ponta Delgada	PDL
+210	John F Kennedy International Airport	40.63980103	-73.77890015	US	New York	JFK
+211	John Paul II International Airport Krakow-Balice Airport	50.07770157	19.78479958	PL	Krakow	KRK
+212	John Wayne Airport-Orange County Airport	33.67570114	-117.8679962	US	Santa Ana	SNA
+213	Jomo Kenyatta International Airport	-1.319239974	36.92779922	KE	Nairobi	NBO
+214	Joplin Regional Airport	37.15179825	-94.49829865	US	Joplin	JLN
+215	Jorge Chavez International Airport	-12.02190018	-77.11430359	PE	Lima	LIM
+216	Jose Marti � International Airport	22.98920059	-82.40910339	CU	Havana	HAV
+217	Juan Gualberto Gomez International Airport	23.03440094	-81.43530273	CU	Varadero	VRA
+218	Juanda International Airport	-7.379829884	112.7870026	ID	Surabaya	SUB
+219	Juba International Airport	4.872010231	31.60110092	SS	Juba	JUB
+220	Kagoshima Airport	31.80340004	130.7189941	JP	Kagoshima	KOJ
+221	Kansai International Airport	34.4272995	135.2440033	JP	Osaka	KIX
+222	Kansas City International Airport	39.29759979	-94.71389771	US	Kansas City	MCI
+223	Kaohsiung International Airport	22.57710075	120.3499985	TW	Kaohsiung City	KHH
+224	Karlsruhe Baden-Baden Airport	48.77939987	8.080499649	DE	Baden-Baden	FKB
+225	Katowice International Airport	50.47430038	19.07999992	PL	Katowice	KTW
+226	Kazan International Airport	55.60620117	49.27870178	RU	Kazan	KZN
+227	Keflavik International Airport	63.98500061	-22.60560036	IS	Reykjavik	KEF
+228	Kempegowda International Airport	13.1979	77.706299	IN	Bangalore	BLR
+229	Kenneth Kaunda International Airport Lusaka	-15.33080006	28.45260048	ZM	Lusaka	LUN
+230	Khabarovsk-Novy Airport	48.52799988	135.1880035	RU	Khabarovsk	KHV
+231	Kharkiv International Airport	49.92480087	36.29000092	UA	Kharkiv	HRK
+232	Khartoum International Airport	15.58950043	32.55319977	SD	Khartoum	KRT
+233	King Abdulaziz International Airport	21.67959976	39.15650177	SA	Jeddah	JED
+234	King Fahd International Airport	26.47120094	49.79790115	SA	Ad Dammam	DMM
+235	King Khaled International Airport	24.95759964	46.69879913	SA	Riyadh	RUH
+236	King Shaka International Airport	-29.61444444	31.11972222	ZA	Durban	DUR
+237	Kinmen Airport	24.42790031	118.3590012	TW	Shang-I	KNH
+238	Koltsovo Airport	56.74309921	60.80270004	RU	Yekaterinburg	SVX
+239	Kotoka International Airport	5.6051898	-0.166786	GH	Accra	ACC
+240	Kuala Lumpur International Airport	2.745579958	101.7099991	MY	Kuala Lumpur	KUL
+241	Kunming Changshui International Airport	25.1019444	102.9291667	CN	Kunming	KMG
+242	Kunsan Air Base	35.90380096	126.6159973	KR	Kunsan	KUV
+243	Kurumoch International Airport	53.50490189	50.16429901	RU	Samara	KUF
+244	Kuwait International Airport	29.22660065	47.96889877	KW	Kuwait City	KWI
+245	La Guardia Airport	40.77719879	-73.87259674	US	New York	LGA
+246	Leopold Sedar Senghor International Airport	14.73970032	-17.49020004	SN	Dakar	DKR
+247	Lafayette Regional Airport	30.20529938	-91.98760223	US	Lafayette	LFT
+248	Laguindingan Airport	8.612203	124.456496	PH	Cagayan de Oro City	CGY
+249	Lajes Field	38.76179886	-27.09079933	PT	Lajes	TER
+250	Lambert St Louis International Airport	38.74869919	-90.37000275	US	St Louis	STL
+251	Larnaca International Airport	34.87509918	33.62490082	CY	Larnarca	LCA
+252	Las Americas International Airport	18.42970085	-69.66889954	DO	Santo Domingo	SDQ
+253	Leeds Bradford Airport	53.86589813	-1.660570025	GB	Leeds	LBA
+254	Leipzig Halle Airport	51.43239975	12.24160004	DE	Leipzig	LEJ
+255	Lennart Meri Tallinn Airport	59.41329956	24.83279991	EE	Tallinn	TLL
+256	Leonardo da Vinci-Fiumicino Airport	41.80450058	12.25080013	IT	Rome	FCO
+257	Lester B. Pearson International Airport	43.67720032	-79.63059998	CA	Toronto	YYZ
+258	Liege Airport	50.63740158	5.443220139	BE	Liege	LGG
+259	Licenciado Benito Juarez International Airport	19.43630028	-99.07209778	MX	Mexico City	MEX
+260	Licenciado Gustavo Diaz Ordaz International Airport	20.68009949	-105.2539978	MX	Puerto Vallarta	PVR
+261	Linate Airport	45.44509888	9.276740074	IT	Milan	LIN
+262	Lisbon Portela Airport	38.78129959	-9.135919571	PT	Lisbon	LIS
+263	Liverpool John Lennon Airport	53.33359909	-2.849720001	GB	Liverpool	LPL
+264	Ljubljana Joze Puc�nik Airport	46.22370148	14.45759964	SI	Ljubljana	LJU
+265	London Gatwick Airport	51.14810181	-0.190277994	GB	London	LGW
+266	London Heathrow Airport	51.4706	-0.461941	GB	London	LHR
+267	London Luton Airport	51.87469864	-0.368333012	GB	London	LTN
+268	London Stansted Airport	51.88499832	0.234999999	GB	London	STN
+269	Longdongbao Airport	26.53849983	106.8010025	CN	Guiyang	KWE
+270	Los Angeles International Airport	33.94250107	-118.4079971	US	Los Angeles	LAX
+271	Los Cabos International Airport	23.15180016	-109.7210007	MX	San Jose del Cabo	SJD
+272	Louis Armstrong New Orleans International Airport	29.99340057	-90.25800323	US	New Orleans	MSY
+273	Louisville International Standiford Field	38.17440033	-85.73600006	US	Louisville	SDF
+274	Lovell Field	35.03530121	-85.20379639	US	Chattanooga	CHA
+275	Lubbock Preston Smith International Airport	33.66360092	-101.822998	US	Lubbock	LBB
+276	Luis Munoz Marin International Airport	18.43939972	-66.00180054	PR	San Juan	SJU
+277	Lulea Airport	65.54380035	22.12199974	SE	Lulea	LLA
+278	Luxembourg-Findel International Airport	49.62659836	6.211520195	LU	Luxembourg	LUX
+279	Lynden Pindling International Airport	25.03899956	-77.46620178	BS	Nassau	NAS
+280	M. R. Stefanik Airport	48.17020035	17.21269989	SK	Bratislava	BTS
+281	Malaga Airport	36.67490005	-4.499110222	ES	Malaga	AGP
+282	Munster Osnabruck Airport	52.13460159	7.684830189	DE	Munster	FMO
+283	Maastricht Aachen Airport	50.9117012	5.770140171	NL	Maastricht	MST
+284	Macau International Airport	22.14959908	113.5920029	MO	Taipa	MFM
+285	Mactan Cebu International Airport	10.30749989	123.9789963	PH	Lapu-Lapu City	CEB
+286	Male International Airport	4.191830158	73.52909851	MV	Male	MLE
+287	Malmo Sturup Airport	55.53630536	13.37619781	SE	Malmo	MMX
+288	Malpensa International Airport	45.63059998	8.728110313	IT	Milan	MXP
+289	Malta International Airport	35.857498	14.4775	MT	Luqa	MLA
+290	Manas International Airport	43.06129837	74.4776001	KG	Bishkek	FRU
+291	Manchester Airport	53.35369873	-2.274950027	GB	Manchester	MAN
+292	Manchester Airport	42.93259811	-71.43569946	US	Manchester	MHT
+293	Mandalay International Airport	21.70219994	95.97789764	MM	Mandalay	MDL
+294	Mariscal Sucre International Airport	-0.129166667	-78.3575	EC	Quito	UIO
+295	Marseille Provence Airport	43.43927192	5.221424103	FR	Marseille	MRS
+296	Mashhad International Airport	36.23519897	59.64099884	IR	Mashhad	MHD
+297	MBS International Airport	43.53290176	-84.07959747	US	Saginaw	MBS
+298	McCarran International Airport	36.08010101	-115.1520004	US	Las Vegas	LAS
+299	McGhee Tyson Airport	35.81100082	-83.9940033	US	Knoxville	TYS
+300	Mehrabad International Airport	35.68920135	51.31340027	IR	Tehran	THR
+301	Melbourne International Airport	-37.6733017	144.8430023	AU	Melbourne	MEL
+302	Memphis International Airport	35.04240036	-89.97669983	US	Memphis	MEM
+303	Metropolitan Oakland International Airport	37.72129822	-122.2210007	US	Oakland	OAK
+304	Miami International Airport	25.79319954	-80.29060364	US	Miami	MIA
+305	Milas Bodrum International Airport	37.25059891	27.66430092	TR	Bodrum	BJV
+306	Ministro Pistarini International Airport	-34.8222	-58.5358	AR	Buenos Aires	EZE
+307	Minneapolis-St Paul International/Wold-Chamberlain Airport	44.88199997	-93.22180176	US	Minneapolis	MSP
+308	Minsk National Airport	53.88249969	28.03070068	BY	Minsk	MSQ
+309	Mobile Regional Airport	30.69120026	-88.24279785	US	Mobile	MOB
+310	Modlin Airport	52.4510994	20.65180016	PL	Warsaw	WMI
+311	Mohammed V International Airport	33.36750031	-7.589970112	MA	Casablanca	CMN
+312	Mombasa Moi International Airport	-4.034830093	39.59420013	KE	Mombasa	MBA
+313	Monroe Regional Airport	32.51089859	-92.03769684	US	Monroe	MLU
+314	Montgomery Regional (Dannelly Field) Airport	32.30059814	-86.39399719	US	Montgomery	MGM
+315	Montreal / Pierre Elliott Trudeau International Airport	45.47060013	-73.74079895	CA	Montreal	YUL
+316	Mt. Fuji Shizuoka Airport	34.79604347	138.1877518	JP	Makinohara	FSZ
+317	Muan International Airport	34.991406	126.382814	KR	Muan	MWX
+318	Munich International Airport	48.35380173	11.78610039	DE	Munich	MUC
+319	Murtala Muhammed International Airport	6.577370167	3.321160078	NG	Lagos	LOS
+320	Muscat International Airport	23.59329987	58.28440094	OM	Muscat	MCT
+321	Naha Airport	26.19580078	127.6460037	JP	Naha	OKA
+322	Nanjing Lukou Airport	31.74200058	118.8619995	CN	Nanjing	NKG
+323	Nanning Wuxu Airport	22.60829926	108.1719971	CN	Nanning	NNG
+324	Naples International Airport	40.88600159	14.29080009	IT	Napoli	NAP
+325	Narita International Airport	35.76470184	140.3860016	JP	Tokyo	NRT
+326	Nashville International Airport	36.12450027	-86.67819977	US	Nashville	BNA
+327	Netaji Subhash Chandra Bose International Airport	22.65469933	88.44670105	IN	Kolkata	CCU
+328	Nevsehir Kapadokya International Airport	38.77190018	34.53450012	TR	Nevsehir	NAV
+329	New Chitose Airport	42.77519989	141.6920013	JP	Chitose	CTS
+330	Newark Liberty International Airport	40.69250107	-74.16870117	US	Newark	EWR
+331	Newcastle Airport	55.03749847	-1.691669941	GB	Newcastle	NCL
+332	Newport News Williamsburg International Airport	37.13190079	-76.49299622	US	Newport News	PHF
+333	Ngurah Rai (Bali) International Airport	-8.748169899	115.1669998	ID	Denpasar-Bali Island	DPS
+334	Nice-Cote d'Azur Airport	43.65840149	7.215869904	FR	Nice	NCE
+335	Ningbo Lishe International Airport	29.82670021	121.461998	CN	Ningbo	NGB
+336	Ninoy Aquino International Airport	14.50860024	121.0199966	PH	Manila	MNL
+337	Nnamdi Azikiwe International Airport	9.006790161	7.263169765	NG	Abuja	ABV
+338	Noi Bai International Airport	21.22120094	105.8069992	VN	Hanoi	HAN
+339	Norfolk International Airport	36.89459991	-76.20120239	US	Norfolk	ORF
+340	Norman Manley International Airport	17.93569946	-76.78749847	JM	Kingston	KIN
+341	Norman Y. Mineta San Jose International Airport	37.36259842	-121.9290009	US	San Jose	SJC
+342	Norwich International Airport	52.67580032	1.282780051	GB	Norwich	NWI
+343	Nuremberg Airport	49.49869919	11.06690025	DE	Nuremberg	NUE
+344	Odessa International Airport	46.42679977	30.67650032	UA	Odessa	ODS
+345	Ontario International Airport	34.05599976	-117.6009979	US	Ontario	ONT
+346	OR Tambo International Airport	-26.13920021	28.24600029	ZA	Johannesburg	JNB
+347	Orlando International Airport	28.42939949	-81.30899811	US	Orlando	MCO
+348	Orlando Sanford International Airport	28.77759933	-81.23750305	US	Orlando	SFB
+349	Osaka International Airport	34.78549957	135.4380035	JP	Osaka	ITM
+350	Oslo Gardermoen Airport	60.19390106	11.10039997	NO	Oslo	OSL
+351	Ottawa Macdonald-Cartier International Airport	45.32249832	-75.66919708	CA	Ottawa	YOW
+352	Ovda International Airport	29.94029999	34.93579865	IL	Eilat	VDA
+353	Owen Roberts International Airport	19.2928009	-81.35769653	KY	Georgetown	GCM
+354	Palm Beach International Airport	26.68320084	-80.09559631	US	West Palm Beach	PBI
+355	Palma De Mallorca Airport	39.55170059	2.738810062	ES	Palma De Mallorca	PMI
+356	Paphos International Airport	34.7179985	32.4856987	CY	Paphos	PFO
+357	Paris-Orly Airport	48.72529984	2.359440088	FR	Paris	ORY
+358	Perth International Airport	-31.94029999	115.9670029	AU	Perth	PER
+359	Philadelphia International Airport	39.87189865	-75.2410965	US	Philadelphia	PHL
+360	Philip S. W. Goldson International Airport	17.53910065	-88.30819702	BZ	Belize City	BZE
+361	Phnom Penh International Airport	11.54660034	104.8440018	KH	Phnom Penh	PNH
+362	Phoenix Sky Harbor International Airport	33.43429947	-112.012001	US	Phoenix	PHX
+363	Piedmont Triad International Airport	36.09780121	-79.93730164	US	Greensboro	GSO
+364	Pisa International Airport	43.68389893	10.3927002	IT	Pisa	PSA
+365	Pittsburgh International Airport	40.49150085	-80.23290253	US	Pittsburgh	PIT
+366	Podgorica Airport	42.3594017	19.25189972	ME	Podgorica	TGD
+367	Port Columbus International Airport	39.9980011	-82.89189911	US	Columbus	CMH
+368	Port Moresby Jacksons International Airport	-9.443380356	147.2200012	PG	Port Moresby	POM
+369	Portland International Airport	45.58869934	-122.5979996	US	Portland	PDX
+370	Portland International Jetport Airport	43.64619827	-70.30930328	US	Portland	PWM
+371	Poznan-Lawica Airport	52.42100143	16.82629967	PL	Poznan	POZ
+372	Presidente Juscelino Kubistschek International Airport	-15.86916733	-47.92083359	BR	Brasilia	BSB
+373	Pristina International Airport	42.5728	21.035801	XK	Pristina	PRN
+374	Prince Mohammad Bin Abdulaziz Airport	24.55340004	39.70510101	SA	Medina	MED
+375	Princess Juliana International Airport	18.04100037	-63.10889816	SX	Saint Martin	SXM
+376	Pulkovo Airport	59.8003006	30.26250076	RU	St. Petersburg	LED
+377	Punta Cana International Airport	18.56739998	-68.36340332	DO	Punta Cana	PUJ
+378	Quad City International Airport	41.44850159	-90.50749969	US	Moline	MLI
+379	Queen Alia International Airport	31.72260094	35.99319839	JO	Amman	AMM
+380	Rajiv Gandhi International Airport	17.23131752	78.42985535	IN	Hyderabad	HYD
+381	Raleigh Durham International Airport	35.87760162	-78.78749847	US	Raleigh	RDU
+382	Range Regional Airport	47.38660049	-92.83899689	US	Hibbing	HIB
+383	Rarotonga International Airport	-21.20269966	-159.8059998	CK	Avarua	RAR
+384	Reno Tahoe International Airport	39.49909973	-119.7679977	US	Reno	RNO
+385	Richmond International Airport	37.50519943	-77.31970215	US	Richmond	RIC
+386	Rick Husband Amarillo International Airport	35.2193985	-101.7060013	US	Amarillo	AMA
+387	Rickenbacker International Airport	39.81380081	-82.92780304	US	Columbus	LCK
+388	Riga International Airport	56.92359924	23.97109985	LV	Riga	RIX
+389	Rio Galeao Tom Jobim International Airport	-22.80999947	-43.25055695	BR	Rio De Janeiro	GIG
+390	Roanoke-Blacksburg Regional Airport	37.32550049	-79.97540283	US	Roanoke	ROA
+391	Robin Hood Doncaster Sheffield Airport	53.48053781	-1.010656357	GB	Doncaster	DSA
+392	Rochester International Airport	43.90829849	-92.5	US	Rochester	RST
+393	Ronald Reagan Washington National Airport	38.85210037	-77.03769684	US	Washington	DCA
+394	Rostov-on-Don Airport	47.2582016	39.81809998	RU	Rostov-on-Don	ROV
+395	Suleyman Demirel International Airport	37.85540009	30.36840057	TR	Isparta	ISE
+396	Sabiha Gokcen International Airport	40.89860153	29.30920029	TR	Istanbul	SAW
+397	Sacramento International Airport	38.69540024	-121.5910034	US	Sacramento	SMF
+398	Salt Lake City International Airport	40.78839874	-111.9779968	US	Salt Lake City	SLC
+399	San Antonio International Airport	29.53370094	-98.46980286	US	San Antonio	SAT
+400	San Diego International Airport	32.73360062	-117.1900024	US	San Diego	SAN
+401	San Francisco International Airport	37.61899948	-122.375	US	San Francisco	SFO
+402	Santiago de Compostela Airport	42.89630127	-8.415140152	ES	Santiago de Compostela	SCQ
+403	Sanya Phoenix International Airport	18.30290031	109.4120026	CN	Sanya	SYX
+404	Sarajevo International Airport	43.82460022	18.3314991	BA	Sarajevo	SJJ
+405	Sarasota Bradenton International Airport	27.39539909	-82.55439758	US	Sarasota	SRQ
+406	Sary-Arka Airport	49.67079926	73.33439636	KZ	Karaganda	KGF
+407	Savannah Hilton Head International Airport	32.12760162	-81.20210266	US	Savannah	SAV
+408	Scott AFB/Midamerica Airport	38.54520035	-89.83519745	US	Belleville	BLV
+409	Seattle Tacoma International Airport	47.44900131	-122.3089981	US	Seattle	SEA
+410	Shanghai Hongqiao International Airport	31.19790077	121.3359985	CN	Shanghai	SHA
+411	Shanghai Pudong International Airport	31.14340019	121.8050003	CN	Shanghai	PVG
+412	Shannon Airport	52.70199966	-8.924819946	IE	Limerick	SNN
+413	Sharjah International Airport	25.32859993	55.51720047	AE	Sharjah	SHJ
+414	Shenzhen Bao'an International Airport	22.63929939	113.810997	CN	Shenzhen	SZX
+415	Sheppard Air Force Base-Wichita Falls Municipal Airport	33.98880005	-98.49189758	US	Wichita Falls	SPS
+416	Sheremetyevo International Airport	55.97259903	37.41460037	RU	Moscow	SVO
+417	Shiraz Shahid Dastghaib International Airport	29.53919983	52.58980179	IR	Shiraz	SYZ
+418	Shreveport Regional Airport	32.44660187	-93.82559967	US	Shreveport	SHV
+419	Sialkot Airport	32.53555679	74.3638916	PK	Sialkot	SKT
+420	Siem Reap International Airport	13.41069984	103.8130035	KH	Siem Reap	REP
+421	Simferopol International Airport	45.05220032	33.97510147	UA	Simferopol	SIP
+422	Singapore Changi International Airport	1.350190043	103.9940033	SG	Singapore	SIN
+423	Sioux Gateway Col. Bud Day Field	42.40259933	-96.38439941	US	Sioux City	SUX
+424	Sochi International Airport	43.44990158	39.95660019	RU	Sochi	AER
+425	Soekarno-Hatta International Airport	-6.12556982	106.6559982	ID	Jakarta	CGK
+426	Sofia Airport	42.69669342	23.41143608	BG	Sofia	SOF
+427	South Bend Regional Airport	41.70869827	-86.31729889	US	South Bend	SBN
+428	Southampton Airport	50.95029831	-1.35679996	GB	Southampton	SOU
+429	Southwest Florida International Airport	26.53619957	-81.75520325	US	Fort Myers	RSW
+430	Spokane International Airport	47.61989975	-117.5339966	US	Spokane	GEG
+431	Springfield Branson National Airport	37.24570084	-93.38860321	US	Springfield	SGF
+432	Sri Guru Ram Dass Jee International Airport	31.70960045	74.79730225	IN	Amritsar	ATQ
+433	St. John's International Airport	47.61859894	-52.75189972	CA	St. John's	YYT
+434	Stavanger Airport Sola	58.87670135	5.63778019	NO	Stavanger	SVG
+435	Stockholm-Arlanda Airport	59.65190125	17.91860008	SE	Stockholm	ARN
+436	Stuttgart Airport	48.68989944	9.221960068	DE	Stuttgart	STR
+437	Suvarnabhumi Airport	13.68109989	100.7470016	TH	Bangkok	BKK
+438	Sydney Kingsford Smith International Airport	-33.94609833	151.177002	AU	Sydney	SYD
+439	Syracuse Hancock International Airport	43.11119843	-76.10630035	US	Syracuse	SYR
+440	Tabriz International Airport	38.13389969	46.23500061	IR	Tabriz	TBZ
+441	Taiping Airport	45.62340164	126.25	CN	Harbin	HRB
+442	Taiwan Taoyuan International Airport	25.07769966	121.2330017	TW	Taipei	TPE
+443	Taiyuan Wusu Airport	37.74689865	112.6279984	CN	Taiyuan	TYN
+444	Tallahassee Regional Airport	30.39649963	-84.35030365	US	Tallahassee	TLH
+445	Tampa International Airport	27.97550011	-82.53320313	US	Tampa	TPA
+446	Tan Son Nhat International Airport	10.81879997	106.6520004	VN	Ho Chi Minh City	SGN
+447	Tancredo Neves International Airport	-19.62444305	-43.9719429	BR	Belo Horizonte	CNF
+448	Taoxian Airport	41.63980103	123.4830017	CN	Shenyang	SHE
+449	Tashkent International Airport	41.25790024	69.28119659	UZ	Tashkent	TAS
+450	Tbilisi International Airport	41.6692009	44.95470047	GE	Tbilisi	TBS
+451	Ted Stevens Anchorage International Airport	61.17440033	-149.9960022	US	Anchorage	ANC
+452	Tenerife Norte Airport	28.48270035	-16.34149933	ES	Tenerife Island	TFN
+453	Tenerife South Airport	28.04450035	-16.57250023	ES	Tenerife Island	TFS
+454	The Eastern Iowa Airport	41.88470078	-91.71080017	US	Cedar Rapids	CID
+455	Thessaloniki Macedonia International Airport	40.5196991	22.97089958	GR	Thessaloniki	SKG
+456	Tianjin Binhai International Airport	39.12440109	117.3460007	CN	Tianjin	TSN
+457	Tirana International Airport Mother Teresa	41.41469955	19.72060013	AL	Tirana	TIA
+458	Tocumen International Airport	9.071359634	-79.38349915	PA	Tocumen	PTY
+459	Tokyo International Airport	35.5522995	139.7799988	JP	Tokyo	HND
+460	Toledo Express Airport	41.58679962	-83.80780029	US	Toledo	TOL
+461	Tolmachevo Airport	55.01259995	82.65070343	RU	Novosibirsk	OVB
+462	Toulouse-Blagnac Airport	43.6291008	1.363819957	FR	Toulouse	TLS
+463	Trabzon International Airport	40.99509811	39.78969955	TR	Trabzon	TZX
+464	Treviso-Sant'Angelo Airport	45.64839935	12.19439983	IT	Treviso	TSF
+465	Tri Cities Regional Tn Va Airport	36.47520065	-82.40740204	US	Bristol	TRI
+466	Tripoli International Airport	32.66350174	13.1590004	LY	Tripoli	TIP
+467	Tri-State/Milton J. Ferguson Field	38.36669922	-82.55799866	US	Huntington	HTS
+468	Trivandrum International Airport	8.48211956	76.92009735	IN	Thiruvananthapuram	TRV
+469	Tromso Airport	69.6832962	18.91889954	NO	Tromso	TOS
+470	Trondheim Airport Vaernes	63.4578018	10.9239998	NO	Trondheim	TRD
+471	Tucson International Airport	32.11610031	-110.9410019	US	Tucson	TUS
+472	Tulsa International Airport	36.19839859	-95.88809967	US	Tulsa	TUL
+473	Tunis Carthage International Airport	36.85100174	10.22719955	TN	Tunis	TUN
+474	Turin Airport	45.20080185	7.64963007	IT	Torino	TRN
+475	Ufa International Airport	54.55749893	55.87440109	RU	Ufa	UFA
+476	Vaclav Havel Airport Prague	50.10079956	14.26000023	CZ	Prague	PRG
+477	Val de Cans/Julio Cezar Ribeiro International Airport	-1.37925005	-48.47629929	BR	Belem	BEL
+478	Vancouver International Airport	49.19390106	-123.1839981	CA	Vancouver	YVR
+479	Varna Airport	43.232101	27.8251	BG	Varna	VAR
+480	Venice Marco Polo Airport	45.50529861	12.3519001	IT	Venice	VCE
+481	Verona Villafranca Airport	45.39569855	10.88850021	IT	Verona	VRN
+482	Victoria International Airport	48.64690018	-123.4260025	CA	Victoria	YYJ
+483	Vienna International Airport	48.11029816	16.56970024	AT	Vienna	VIE
+484	Vilnius International Airport	54.63410187	25.28580093	LT	Vilnius	VNO
+485	Vnukovo International Airport	55.59149933	37.26150131	RU	Moscow	VKO
+486	Warsaw Chopin Airport	52.16569901	20.96710014	PL	Warsaw	WAW
+487	Washington Dulles International Airport	38.94449997	-77.45580292	US	Washington	IAD
+488	Wellington International Airport	-41.32720184	174.8049927	NZ	Wellington	WLG
+489	Wenzhou Yongqiang Airport	27.91220093	120.8519974	CN	Wenzhou	WNZ
+490	Wichita Mid Continent Airport	37.64989853	-97.43309784	US	Wichita	ICT
+491	Will Rogers World Airport	35.39310074	-97.60070038	US	Oklahoma City	OKC
+492	William P Hobby Airport	29.64539909	-95.27890015	US	Houston	HOU
+493	Winnipeg / James Armstrong Richardson International Airport	49.90999985	-97.23989868	CA	Winnipeg	YWG
+494	Wuhan Tianhe International Airport	30.78380013	114.2080002	CN	Wuhan	WUH
+495	Xiamen Gaoqi International Airport	24.54400063	118.1279984	CN	Xiamen	XMN
+496	Xi'an Xianyang International Airport	34.44710159	108.7519989	CN	Xianyang	XIY
+497	Yangon International Airport	16.90730095	96.1332016	MM	Yangon	RGN
+498	Yaoqiang Airport	36.85720062	117.2160034	CN	Jinan	TNA
+499	Yeager Airport	38.37310028	-81.59320068	US	Charleston	CRW
+500	Yemelyanovo Airport	56.17290115	92.49330139	RU	Krasnoyarsk	KJA
+501	Zurich Airport	47.46469879	8.54916954	CH	Zurich	ZRH
+502	Zagreb Airport	45.74290085	16.06879997	HR	Zagreb	ZAG
+503	Zhengzhou Xinzheng International Airport	34.5196991	113.8410034	CN	Zhengzhou	CGO
+504	Zhoushuizi Airport	38.96569824	121.5390015	CN	Dalian	DLC
+505	Zvartnots International Airport	40.14730072	44.39590073	AM	Yerevan	EVN
+506	Pyongyang Sunan International Airport	39.223889	125.67	KP	Pyongyang	FNJ
+507	Sleaford International Airport	53.0003079	-0.40965	GB	Sleaford	SLE
